@@ -4,7 +4,7 @@ pdfplumber==0.9.0
 sumy==0.11.0
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
-farm-haystack==1.21.1
+farm-haystack==1.21.1 ❗️
 transformers==4.35.2
 torch==2.1.0
 nltk==3.8.1
