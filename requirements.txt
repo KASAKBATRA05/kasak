@@ -1,0 +1,15 @@
+streamlit==1.28.1
+PyMuPDF==1.23.8
+pdfplumber==0.9.0
+sumy==0.11.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+farm-haystack==1.21.1
+transformers==4.35.2
+torch==2.1.0
+nltk==3.8.1
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
